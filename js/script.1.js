@@ -75,7 +75,7 @@ const menu = [
     id: 9,
     name: "Tiramisù della Nonna",
     category: "postres",
-    image: "https://tiendacloud01.blob.core.windows.net/imagenesdanny/tiramisú.jpg",
+    image: "https://tiendacloud01.blob.core.windows.net/imagenesdanny/tiramisu.jpg",
     description: "Café intenso, cacao y crema de mascarpone en capas suaves.",
     price: "$99"
   },
